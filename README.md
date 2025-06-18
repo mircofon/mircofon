@@ -22,8 +22,8 @@ I'm a **software developer** and **technology enthusiast** with a passion for bu
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MircoSteinvoort&layout=compact&theme=github_dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MircoSteinvoort&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mircofon&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mircofon&show_icons=true&theme=github_dark)
 
 ---
 
