@@ -22,8 +22,8 @@ I'm a **software developer** and **technology enthusiast** with a passion for bu
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mircofon&layout=compact&theme=github_dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mircofon&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats-iota-one-22.vercel.app/api/top-langs/?username=mircofon&layout=compact&count_private=true&theme=github_dark)
+![Mircos Stats](https://github-readme-stats-iota-one-22.vercel.app/api?username=mircofon&count_private=true&show_icons=true&theme=github_dark)
 
 ---
 
