@@ -8,7 +8,6 @@ I'm a **software developer** and **technology enthusiast** with a passion for bu
 ## 🚀 Current Projects
 
 - 🧠 Developing a **custom CMS** for [Revitando GmbH](https://revitando.de) (legal tech & reputation management)
-- 🏋️‍♂️ Creating an **AI-powered fitness app** for tracking workouts and training plans
 - 🗂️ Managing a **business directory platform** with SEO-optimized industry pages
 
 ## 🛠️ Languages & Tools
